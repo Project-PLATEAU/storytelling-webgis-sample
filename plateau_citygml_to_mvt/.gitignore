@@ -1,0 +1,6 @@
+output
+node_modules
+data/**/*
+!data/README.md
+.DS_Store
+tokyo23.geojsonl

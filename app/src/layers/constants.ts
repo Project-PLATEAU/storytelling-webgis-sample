@@ -1,0 +1,1 @@
+export const MAIN_SCENE_DURATION = 30000;

@@ -1,0 +1,1 @@
+export { Infobox } from "./Infobox";

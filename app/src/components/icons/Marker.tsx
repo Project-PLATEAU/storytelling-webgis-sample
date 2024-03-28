@@ -1,0 +1,23 @@
+import { FC, HTMLAttributes } from "react";
+
+export const Marker: FC<HTMLAttributes<HTMLOrSVGElement>> = props => (
+  <svg
+    width="24"
+    height="32"
+    viewBox="0 0 24 32"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    {...props}>
+    <g clipPath="url(#clip0_732_7195)">
+      <path
+        d="M13.4812 31.2C16.6875 27.1875 24 17.4625 24 12C24 5.375 18.625 0 12 0C5.375 0 0 5.375 0 12C0 17.4625 7.3125 27.1875 10.5188 31.2C11.2875 32.1562 12.7125 32.1562 13.4812 31.2ZM12 16C9.79375 16 8 14.2063 8 12C8 9.79375 9.79375 8 12 8C14.2063 8 16 9.79375 16 12C16 14.2063 14.2063 16 12 16Z"
+        fill="currentColor"
+      />
+    </g>
+    <defs>
+      <clipPath id="clip0_732_7195">
+        <rect width="24" height="32" fill="white" />
+      </clipPath>
+    </defs>
+  </svg>
+);

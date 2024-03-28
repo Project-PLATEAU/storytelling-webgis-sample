@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "convert": "node index.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.3.4"
+  }
+}

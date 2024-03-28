@@ -1,0 +1,1 @@
+export { LegendWithImage } from "./LegendWithImage";

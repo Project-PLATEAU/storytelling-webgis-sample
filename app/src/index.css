@@ -1,0 +1,57 @@
+html {
+  background-color: rgba(70, 60, 100, 1);
+}
+
+body,
+#root {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 0;
+  min-height: 100svh;
+  min-height: 100dvh;
+  min-width: 100vw;
+  font-family: "Noto Sans", "游ゴシック体", YuGothic, "游ゴシック Medium",
+    "Yu Gothic Medium", "游ゴシック", "Yu Gothic", sans-serif;
+  overflow: hidden;
+  padding-top: env(safe-area-inset-top);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+div[mapboxgl-children] {
+  display: none;
+}
+
+.maplibregl-ctrl-bottom-right {
+  position: fixed !important;
+  bottom: 0px;
+  left: 0px;
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 2px 6px;
+  border-radius: 2px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  font-size: 12px;
+  color: #333;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.maplibregl-ctrl-bottom-right a {
+  color: #427af9;
+  text-decoration: none;
+}
+
+.maplibregl-ctrl-bottom-right a:hover {
+  text-decoration: underline;
+}
+
+.maplibregl-ctrl-attrib-button {
+  display: none;
+}
+
+.maplibregl-ctrl-attrib-inner {
+  pointer-events: none;
+}
+
+.maplibregl-ctrl-attrib-inner a {
+  pointer-events: auto;
+}
