@@ -20,7 +20,7 @@ WebGISエンジンとしてはdeck.gl と MapLibre GL JS を組み合わせて�
 
 ### Web アプリケーションの起動方法
 
-事前に以下のリンクからそれぞれファイルをダウンロードし、zipファイルを解凍後、ファイル名は変えずに `app/public/data` ディレクトリ配下に配置する。  
+いくつかのデータはサイズが大きいため GitHub には置いていない。そのため、事前に以下のリンクからそれぞれファイルをダウンロードし、zipファイルを解凍後、ファイル名は変えずに `app/public/data` ディレクトリ配下に配置する必要がある。  
 - [MVT 形式の東京 23 区の建築物モデル](https://assets.cms.plateau.reearth.io/assets/7a/97acb8-8f27-413d-bc02-9c343ee57f27/tokyo23-mvt.zip)  
 - [MVT 形式の東京 23 区の防火地域又は準防火地域モデル](https://assets.cms.plateau.reearth.io/assets/50/a8418c-54f1-4f2d-973a-a18e5011d149/urbanplan-fireproof-mvt.zip)  
 - [震度分布・全壊棟数分布・焼失棟数分布・液状化分布のファイル群](https://assets.cms.plateau.reearth.io/assets/52/6f2145-0ee9-421a-b86b-f14871e1340e/distributions.zip)  
