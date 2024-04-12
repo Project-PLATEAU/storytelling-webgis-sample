@@ -1,4 +1,4 @@
-# ストーリーテリング型 WebGIS の開発と活用に関する技術調査 ソースコード
+# ストーリーテリング型 WebGIS 「PLATEAU Past & Future for Action」
 
 ![thumbnail](./app/public/img/ogi.png)
   
