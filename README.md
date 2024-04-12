@@ -2,8 +2,8 @@
 
 ![thumbnail](./app/public/img/ogi.png)
   
-本レポジトリでは、3D都市モデルを活用したストーリーテリング型WwbGISコンテンツ「PLATEAU Past & Future for Action」のソースコードを公開しています。
-「PLATEAU Past & Future for Action」は、WebGIS コンテンツにおける表現の新しい可能性を示すことを目的に開発されたサンプルアプリです。WebGISにおける多様なビジュアライゼーション表現を実現するため、本コンテンツは東京都の首都直下地震等の災害リスクを伝えることをテーマに、自動遷移型のストーリーテリングアプリケーションとして構築されています。
+本レポジトリでは、3D都市モデルを活用したストーリーテリング型WwbGISコンテンツ「PLATEAU Past & Future for Action」のソースコードを公開しています。  
+「PLATEAU Past & Future for Action」は、WebGIS コンテンツにおける表現の新しい可能性を示すことを目的に開発されたサンプルアプリです。WebGISにおける多様なビジュアライゼーション表現を実現するため、本コンテンツは東京都の首都直下地震等の災害リスクを伝えることをテーマに、自動遷移型のストーリーテリングアプリケーションとして構築されています。  
 WebGISエンジンとしてはdeck.gl と MapLibre GL JS を組み合わせて使用しました。
 
 ### [PLATEAU Past & Future for Action （外部リンク）](https://www.mlit.go.jp/plateau/plateau-pffa/)
