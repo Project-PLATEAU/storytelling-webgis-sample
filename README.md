@@ -114,13 +114,13 @@ Project PLATEAU が提供する 3D 都市モデルの建築物モデルの CityG
 | plateau_citygml_to_mvt | CityGML を MVT に変換するためのスクリプト |
 
 ## 7.ライセンス
-ソースコード及び関連ドキュメントの著作権は国土交通省に帰属します。  
-本ドキュメントは[Project PLATEAUのサイトポリシー](https://www.mlit.go.jp/plateau/site-policy/)（CCBY4.0及び政府標準利用規約2.0）に従い提供されています。
+- ソースコード及び関連ドキュメントの著作権は国土交通省に帰属します。  
+- 本ドキュメントは[Project PLATEAUのサイトポリシー](https://www.mlit.go.jp/plateau/site-policy/)（CCBY4.0及び政府標準利用規約2.0）に従い提供されています。
 
 ## 8.注意事項
-本リポジトリは参考資料として提供しているものです。動作保証は行っていません。  
-本リポジトリについては予告なく変更又は削除をする可能性があります。  
-本リポジトリの利用により生じた損失及び損害等について、国土交通省はいかなる責任も負わないものとします。  
+- 本リポジトリは参考資料として提供しているものです。動作保証は行っていません。  
+- 本リポジトリについては予告なく変更又は削除をする可能性があります。  
+- 本リポジトリの利用により生じた損失及び損害等について、国土交通省はいかなる責任も負わないものとします。  
 
 ## 9.参考資料
-技術検証レポート: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0058_ver01.pdf
+- 技術検証レポート: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0058_ver01.pdf
